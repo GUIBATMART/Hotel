@@ -113,9 +113,10 @@ ul#navegacao a:hover{
 }
 
 .depoimento{
-    width: 226px;
-    height: 164px;
+    width: 170PX;
+    height: 170px;
     float: right;
+    margin-right: 20px;
 
 }
 
